@@ -1,3 +1,3 @@
 # Arbaaz-demo
 This is my first Git Repository.
-Author-arbaaz Shaikh
+Author-Arbaaz Shaikh
