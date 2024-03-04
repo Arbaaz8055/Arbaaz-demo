@@ -2,4 +2,4 @@
 This is my first Git Repository.
 <br>
 Author-Arbaaz Shaikh
-hey
+konnichiwa means HELLO in japanese language
